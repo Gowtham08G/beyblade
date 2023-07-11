@@ -23,8 +23,7 @@ p{
 }
 body{
     background-image: url("hey.jpg");
-    
-    background-repeat: repeat;
+    background-size: cover;
 
     
 }
